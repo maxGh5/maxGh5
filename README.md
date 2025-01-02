@@ -46,8 +46,8 @@
 
 ---
 
-## 📈 GitHub Stats
-![Max's GitHub Stats (really BAD)](https://github-readme-stats.vercel.app/api?username=maxGh5&show_icons=true&theme=radical)
+## 📈 GitHub Stats (really really BAD)
+![Max's GitHub Stats ](https://github-readme-stats.vercel.app/api?username=maxGh5&show_icons=true&theme=radical)
 
 ---
 
